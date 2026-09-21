@@ -18,5 +18,6 @@ The analysis will use player-level performance statistics summarized into team-l
 
 **Tools:** Python · pandas · Jupyter Notebook · Matplotlib · Seaborn
 
+[View the Full EDA Project →](projects/ucl-eda.md)
 
 ## More Projects Coming UP
