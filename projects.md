@@ -11,13 +11,12 @@ This page will document projects that demonstrate my growth in data science, fro
 
 **Research Question**
 
-> To what extent is a team's combined players individuals attacking and defensive performance associated with how far it advanced in the 2021–2022 UEFA Champions League?
+> To what extent is an individual player's attacking and defensive performance associated with how far their team advanced in the 2021–2022 UEFA Champions League?
 
-This project examines whether teams with strong players in attacking and defensive performances tended to advance further in the competition.
+This project explores whether teams with players who demonstrated strong attacking and defensive performances tended to advance further in the competition.
+The analysis will use player-level performance statistics summarized into team-level measures to examine the relationship between individual player performance, team performance, and tournament progression.
 
-The analysis will use player-level performance statistics aggregated into team-level measures and explore the relationship between attacking performance, defensive performance, and tournament progression.
-
-**Tools:** Python · Jupyter Notebook
+**Tools:** Python · pandas · Jupyter Notebook · Matplotlib · Seaborn
 
 
-## More Projects Coming U
+## More Projects Coming UP
