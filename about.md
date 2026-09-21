@@ -18,8 +18,6 @@ Coming from France and now studying in the United States has also given me an ap
 
 ## Career Goals
 
-## Career Goals
-
 My goal is to go in Law School, pass the Bar to become a **lawyer**, with a particular interest in either **international law or criminal law**. 
 
 As I continue my studies, I hope to gain experience through **internships, research, and hands-on opportunities** that will help me explore the legal field and prepare for a career as a lawyer.
