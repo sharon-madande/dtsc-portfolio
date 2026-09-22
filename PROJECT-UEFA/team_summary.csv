@@ -1,0 +1,33 @@
+club,stage,advancement_score,Assists,Balls Recovered,Goals,Tackles Won,categories_represented,unique_top_players,total_top_player_observations,attacking_top_players,defensive_top_players
+Real Madrid,Champion,6,2.0,5.0,3.0,6.0,4.0,10.0,16.0,5.0,11.0
+Liverpool,Runner-up,5,1.0,6.0,4.0,3.0,4.0,10.0,14.0,5.0,9.0
+Villarreal,Semifinal,4,3.0,6.0,1.0,4.0,4.0,9.0,14.0,4.0,10.0
+Man. City,Semifinal,4,3.0,4.0,2.0,2.0,4.0,8.0,11.0,5.0,6.0
+Atlético,Quarterfinal,3,0.0,2.0,1.0,5.0,3.0,5.0,8.0,1.0,7.0
+Bayern,Quarterfinal,3,4.0,5.0,3.0,3.0,4.0,9.0,15.0,7.0,8.0
+Benfica,Quarterfinal,3,2.0,3.0,1.0,6.0,4.0,8.0,12.0,3.0,9.0
+Chelsea,Quarterfinal,3,0.0,4.0,1.0,1.0,3.0,5.0,6.0,1.0,5.0
+Ajax,Round of 16,2,1.0,2.0,1.0,2.0,4.0,5.0,6.0,2.0,4.0
+LOSC,Round of 16,2,0.0,3.0,0.0,4.0,2.0,4.0,7.0,0.0,7.0
+Salzburg,Round of 16,2,0.0,4.0,0.0,4.0,2.0,5.0,8.0,0.0,8.0
+Man. United,Round of 16,2,1.0,0.0,1.0,3.0,3.0,4.0,5.0,2.0,3.0
+Paris,Round of 16,2,1.0,1.0,2.0,2.0,4.0,5.0,6.0,3.0,3.0
+Juventus,Round of 16,2,0.0,1.0,0.0,2.0,2.0,3.0,3.0,0.0,3.0
+Inter,Round of 16,2,0.0,3.0,0.0,3.0,2.0,4.0,6.0,0.0,6.0
+Sporting CP,Round of 16,2,0.0,0.0,1.0,3.0,2.0,4.0,4.0,1.0,3.0
+Shakhtar Donetsk,Group Stage,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+Sevilla,Group Stage,1,0.0,3.0,0.0,1.0,2.0,4.0,4.0,0.0,4.0
+Wolfsburg,Group Stage,1,1.0,1.0,0.0,0.0,2.0,2.0,2.0,1.0,1.0
+Young Boys,Group Stage,1,0.0,1.0,0.0,1.0,2.0,1.0,2.0,0.0,2.0
+Sheriff,Group Stage,1,1.0,1.0,0.0,3.0,3.0,4.0,5.0,1.0,4.0
+Malmö,Group Stage,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Porto,Group Stage,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+Milan,Group Stage,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+Atalanta,Group Stage,1,1.0,1.0,0.0,1.0,3.0,3.0,3.0,1.0,2.0
+Leipzig,Group Stage,1,1.0,1.0,1.0,0.0,3.0,3.0,3.0,2.0,1.0
+Dynamo Kyiv,Group Stage,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dortmund,Group Stage,1,1.0,2.0,0.0,1.0,3.0,3.0,4.0,1.0,3.0
+Club Brugge,Group Stage,1,0.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,2.0
+Beşiktaş,Group Stage,1,0.0,1.0,0.0,2.0,2.0,2.0,3.0,0.0,3.0
+Barcelona,Group Stage,1,0.0,0.0,0.0,2.0,1.0,2.0,2.0,0.0,2.0
+Zenit,Group Stage,1,0.0,1.0,0.0,2.0,2.0,2.0,3.0,0.0,3.0

@@ -1,0 +1,178 @@
+player_name,club,value,category
+Benzema,Real Madrid,15,Goals
+Lewandowski,Bayern,13,Goals
+Haller,Ajax,11,Goals
+Salah,Liverpool,8,Goals
+Nkunku,Leipzig,7,Goals
+Mahrez,Man. City,7,Goals
+Mbappé,Paris,6,Goals
+Núñez,Benfica,6,Goals
+Ronaldo,Man. United,6,Goals
+Danjuma,Villarreal,6,Goals
+Sané,Bayern,6,Goals
+Firmino,Liverpool,5,Goals
+Mané,Liverpool,5,Goals
+Rodrygo,Real Madrid,5,Goals
+Messi,Paris,5,Goals
+Jesus,Man. City,4,Goals
+Werner,Chelsea,4,Goals
+Pedro Gonçalves,Sporting CP,4,Goals
+Vinícius Júnior,Real Madrid,4,Goals
+Luis Díaz,Liverpool,4,Goals
+Müller,Bayern,4,Goals
+Griezmann,Atlético,4,Goals
+Bruno Fernandes,Man. United,7,Assists
+Vinícius Júnior,Real Madrid,6,Assists
+Sané,Bayern,6,Assists
+Antony,Ajax,5,Assists
+Alexander-Arnold,Liverpool,4,Assists
+De Bruyne,Man. City,4,Assists
+Modrić,Real Madrid,4,Assists
+João Mário,Benfica,4,Assists
+Mbappé,Paris,4,Assists
+Gerard Moreno,Villarreal,4,Assists
+Capoue,Villarreal,4,Assists
+Parejo,Villarreal,3,Assists
+Grimaldo,Benfica,3,Assists
+Müller,Bayern,3,Assists
+Arnold,Wolfsburg,3,Assists
+Angeliño,Leipzig,3,Assists
+Coman,Bayern,3,Assists
+Bernardo Silva,Man. City,3,Assists
+Bellingham,Dortmund,3,Assists
+Zapata,Atalanta,3,Assists
+Lewandowski,Bayern,3,Assists
+João Cancelo,Man. City,3,Assists
+Cristiano,Sheriff,3,Assists
+Casemiro,Real Madrid,13,Tackles Won
+Éder Militão,Real Madrid,6,Tackles Won
+Reinildo,Atlético,6,Tackles Won
+Fabinho,Liverpool,9,Tackles Won
+Albiol,Villarreal,6,Tackles Won
+Otamendi,Benfica,17,Tackles Won
+João Cancelo,Man. City,6,Tackles Won
+Foyth,Villarreal,10,Tackles Won
+Pavard,Bayern,7,Tackles Won
+Konaté,Liverpool,11,Tackles Won
+Rodri,Man. City,10,Tackles Won
+Vertonghen,Benfica,6,Tackles Won
+Carvajal,Real Madrid,6,Tackles Won
+André,LOSC,12,Tackles Won
+Alaba,Real Madrid,12,Tackles Won
+L. Hernández,Bayern,6,Tackles Won
+Gilberto,Benfica,8,Tackles Won
+Parejo,Villarreal,8,Tackles Won
+Fonte,LOSC,9,Tackles Won
+Seiwald,Salzburg,6,Tackles Won
+Lauper,Young Boys,7,Tackles Won
+Kimmich,Bayern,6,Tackles Won
+Camara,Salzburg,7,Tackles Won
+Barrios,Zenit,7,Tackles Won
+Christensen,Chelsea,6,Tackles Won
+Souza,Beşiktaş,12,Tackles Won
+Thiago Alcántara,Liverpool,11,Tackles Won
+Mazraoui,Ajax,10,Tackles Won
+Kondogbia,Atlético,6,Tackles Won
+Fernando Costanza,Sheriff,13,Tackles Won
+Wöber,Salzburg,6,Tackles Won
+Tiago Djaló,LOSC,6,Tackles Won
+Brozović,Inter,6,Tackles Won
+Škriniar,Inter,6,Tackles Won
+Dodô,Shakhtar Donetsk,6,Tackles Won
+João Palhinha,Sporting CP,11,Tackles Won
+Kristensen,Salzburg,8,Tackles Won
+Weigl,Benfica,12,Tackles Won
+Grimaldo,Benfica,6,Tackles Won
+Rakitskyy,Zenit,7,Tackles Won
+Romagnoli,Milan,7,Tackles Won
+Vidal,Inter,10,Tackles Won
+Koke,Atlético,8,Tackles Won
+Freuler,Atalanta,6,Tackles Won
+Álvarez,Ajax,10,Tackles Won
+Sergio Busquets,Barcelona,9,Tackles Won
+Valverde,Real Madrid,7,Tackles Won
+Fred,Man. United,6,Tackles Won
+Wan-Bissaka,Man. United,7,Tackles Won
+Addo,Sheriff,7,Tackles Won
+Montero,Beşiktaş,6,Tackles Won
+Rabiot,Juventus,6,Tackles Won
+Luís Neto,Sporting CP,7,Tackles Won
+Bellingham,Dortmund,9,Tackles Won
+Locatelli,Juventus,7,Tackles Won
+Renan Lodi,Atlético,6,Tackles Won
+Matheus Reis,Sporting CP,6,Tackles Won
+Verratti,Paris,18,Tackles Won
+Lo Celso,Villarreal,7,Tackles Won
+Rafa Silva,Benfica,6,Tackles Won
+Griezmann,Atlético,6,Tackles Won
+Camavinga,Real Madrid,9,Tackles Won
+Otávio,Porto,7,Tackles Won
+Ronald Araújo,Barcelona,6,Tackles Won
+Acuña,Sevilla,6,Tackles Won
+Bruno Fernandes,Man. United,6,Tackles Won
+Onana,LOSC,6,Tackles Won
+S. Thill,Sheriff,6,Tackles Won
+Herrera,Paris,6,Tackles Won
+Casemiro,Real Madrid,76,Balls Recovered
+Éder Militão,Real Madrid,76,Balls Recovered
+Reinildo,Atlético,76,Balls Recovered
+Fabinho,Liverpool,74,Balls Recovered
+Albiol,Villarreal,73,Balls Recovered
+Thiago Silva,Chelsea,65,Balls Recovered
+Otamendi,Benfica,63,Balls Recovered
+Capoue,Villarreal,62,Balls Recovered
+Van Dijk,Liverpool,62,Balls Recovered
+João Cancelo,Man. City,56,Balls Recovered
+Foyth,Villarreal,55,Balls Recovered
+Pavard,Bayern,55,Balls Recovered
+Konaté,Liverpool,53,Balls Recovered
+Martínez,Ajax,53,Balls Recovered
+Rodri,Man. City,52,Balls Recovered
+Estupiñán,Villarreal,52,Balls Recovered
+Vertonghen,Benfica,51,Balls Recovered
+Laporte,Man. City,51,Balls Recovered
+Fernando,Sevilla,51,Balls Recovered
+Alexander-Arnold,Liverpool,51,Balls Recovered
+Carvajal,Real Madrid,50,Balls Recovered
+André,LOSC,49,Balls Recovered
+Alaba,Real Madrid,49,Balls Recovered
+L. Hernández,Bayern,49,Balls Recovered
+Pau Torres,Villarreal,49,Balls Recovered
+De Ligt,Juventus,49,Balls Recovered
+Gilberto,Benfica,48,Balls Recovered
+Parejo,Villarreal,48,Balls Recovered
+Koundé,Sevilla,48,Balls Recovered
+Fonte,LOSC,47,Balls Recovered
+Rüdiger,Chelsea,46,Balls Recovered
+Bastoni,Inter,46,Balls Recovered
+Upamecano,Bayern,46,Balls Recovered
+Rúben Dias,Man. City,45,Balls Recovered
+Seiwald,Salzburg,44,Balls Recovered
+Robertson,Liverpool,44,Balls Recovered
+Lauper,Young Boys,43,Balls Recovered
+Hendry,Club Brugge,42,Balls Recovered
+Meunier,Dortmund,42,Balls Recovered
+Marquinhos,Paris,42,Balls Recovered
+Kimmich,Bayern,41,Balls Recovered
+Camara,Salzburg,41,Balls Recovered
+Barrios,Zenit,41,Balls Recovered
+Christensen,Chelsea,41,Balls Recovered
+Nsoki,Club Brugge,41,Balls Recovered
+Palomino,Atalanta,41,Balls Recovered
+Ulmer,Salzburg,41,Balls Recovered
+Diego Carlos,Sevilla,41,Balls Recovered
+Souza,Beşiktaş,40,Balls Recovered
+Thiago Alcántara,Liverpool,40,Balls Recovered
+Mazraoui,Ajax,40,Balls Recovered
+Kondogbia,Atlético,40,Balls Recovered
+Süle,Bayern,40,Balls Recovered
+Fernando Costanza,Sheriff,39,Balls Recovered
+Wöber,Salzburg,39,Balls Recovered
+Gvardiol,Leipzig,39,Balls Recovered
+Modrić,Real Madrid,39,Balls Recovered
+Tiago Djaló,LOSC,39,Balls Recovered
+Guilavogui,Wolfsburg,39,Balls Recovered
+Akanji,Dortmund,39,Balls Recovered
+Brozović,Inter,38,Balls Recovered
+Škriniar,Inter,38,Balls Recovered
+Jorginho,Chelsea,38,Balls Recovered
