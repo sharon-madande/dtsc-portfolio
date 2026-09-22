@@ -32,6 +32,6 @@ Learn about my background, education, interests, experience, and career goals.
 
 ## Resume & Professional Profile
 
-**View My Resume → [resume.pdf]**
+**View My Resume → [Marie-Sharon Adande_Adande_Resume.pdf]**
 
 **Connect with me on LinkedIn →[https://www.linkedin.com/in/marie-sharon-adande-9aab4b41b/]**
