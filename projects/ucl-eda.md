@@ -91,7 +91,7 @@ Overall, this project helped me become more comfortable with **pandas, data visu
 
 The complete data preparation, analysis, and visualizations are available in the Jupyter Notebook.
 
-**[ View the Jupyter Notebook →]**
+**[ View the Jupyter Notebook →]** (https://github.com/sharon-madande/dtsc-portfolio/blob/main/PROJECT-UEFA/ucl_eda.ipynb)
 
 
 ## References
