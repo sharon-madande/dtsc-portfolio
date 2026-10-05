@@ -33,6 +33,7 @@ With Logistic Regression and Random Forest models.
 The final model will be used to estimate which teams have the highest probability of winning the 2027 UEFA Champions League.
 
 **Tools:** Python · pandas · scikit-learn · Jupyter Notebook · Matplotlib · Seaborn
+
 [View the Full EDA Project →](projects/ucl-ml.md)
 
 
