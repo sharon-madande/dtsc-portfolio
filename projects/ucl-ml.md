@@ -175,7 +175,7 @@ As a truly soccer fan ( FOOTBALL!!! ) I enjoyed this project since it helped me 
 
 The complete data preparation, modeling, evaluation, and predictions are available in the Jupyter Notebook.
 
-**[ View the Jupyter Notebook →](ucl_ml.ipynb)**
+**[ View the Jupyter Notebook →](https://github.com/sharon-madande/dtsc-portfolio/blob/main/PROJECT-UCL-ML/ucl_ml.ipynb)**
 
 
 ## Data & Supporting Sources
