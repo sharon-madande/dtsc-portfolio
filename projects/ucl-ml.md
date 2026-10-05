@@ -175,18 +175,21 @@ As a truly soccer fan ( FOOTBALL!!! ) I enjoyed this project since it helped me 
 
 The complete data preparation, modeling, evaluation, and predictions are available in the Jupyter Notebook.
 
-**[ View the Jupyter Notebook →]()**
-
-## References
-
+**[ View the Jupyter Notebook →](ucl_ml.ipynb)**
 
 
 ## Data & Supporting Sources
 
-ESPN. (2026). UEFA Champions League statistics. ESPN.
+* ESPN. (2026). *UEFA Champions League statistics*. ESPN.
 
-Union of European Football Associations. (2026). Meet the 2026/27 Champions League league phase teams.
+* Lago-Ballesteros, J. (2011). Differences in performance indicators between winning and losing teams in the UEFA Champions League. *Journal of Human Kinetics*. https://doi.org/10.2478/V10078-011-0011-3
 
-Union of European Football Associations. (2026). UEFA Champions League history.
+* Ramos, T. (2026). UEFA Champions League Historical Match Statistics 2020–2026 [https://www.kaggle.com/datasets/ramostherunning/champions-league-historical-match-20202026/data]. Kaggle.
 
-Ramos, T. (2026). UEFA Champions League Historical Match Statistics 2020–2026 [https://www.kaggle.com/datasets/ramostherunning/champions-league-historical-match-20202026/data]. Kaggle.
+* Saito, T., & Rehmsmeier, M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. *PLOS ONE, 10*(3), e0118432. https://doi.org/10.1371/journal.pone.0118432
+
+* Union of European Football Associations. (2026). *Meet the 2026/27 Champions League 
+league phase teams*.
+
+* Union of European Football Associations. (2026). *UEFA Champions League history*.
+
